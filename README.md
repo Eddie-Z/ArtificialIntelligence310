@@ -13,7 +13,8 @@ Results:
     python pacman.py -l bigMaze -z .5 -p SearchAgent.
   Shows:
     The Pac-Man board will show an overlay of the states explored, and the order in which they were explored (brighter red means earlier exploration). 
-----------------------------------------------------------------------------    
+
+
 CMPT310_DPLL:
 Objective:
   Complete the empty function toCNF in sudoku.py. The function toCNF takes three arguments: the number N, an instance of sudoku of size NxN, and a string (for the name of output file).
@@ -37,7 +38,7 @@ Results:
     sudoku9.txt9.cnf
     
     Program should print “UNSAT” if a formula is unsatisfiable and "SAT" if it is satisfiable.
-----------------------------------------------------------------------------  
+    
 CMPT310_ECOLI:
 Objective:
   Implement HMM.logprob() calculates the probability of a particular sequence of states and characters.
@@ -50,7 +51,8 @@ Results:
   
   Shows:
   E. coli output named ecoli_output.txt.
-----------------------------------------------------------------------------  
+
+
 CMPT310_HMM
 Objective:
   Implement compute_activations.
