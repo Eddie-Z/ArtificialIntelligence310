@@ -1,5 +1,3 @@
-# ArtificialIntelligence310
-
 CMPT310_PACMAN:
 Objective: 
   -Implement BFS, DFS for depthFirstSearch and  breadthFirstSearch functions.
