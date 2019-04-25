@@ -1,9 +1,9 @@
-CMPT310_PACMAN:
-Objective: 
-  -Implement BFS, DFS for depthFirstSearch and  breadthFirstSearch functions.
-  -Implement A* graph search in the empty function aStarSearch in search.py.
-  -Implement the CornersProblem search problem in searchAgents.py.
-  -Implement a heuristic for the CornersProblem in cornersHeuristic.
+CMPT310_PACMAN:<br/>
+Objective: <br/>
+  -Implement BFS, DFS for depthFirstSearch and  breadthFirstSearch functions.<br/>
+  -Implement A* graph search in the empty function aStarSearch in search.py.<br/>
+  -Implement the CornersProblem search problem in searchAgents.py.<br/>
+  -Implement a heuristic for the CornersProblem in cornersHeuristic.<br/>
 Results:
   Using commands in terminal:
     python pacman.py -l tinyMaze -p SearchAgent.
