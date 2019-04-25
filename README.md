@@ -12,6 +12,7 @@ Results:<br/>
   Shows:<br/>
     The Pac-Man board will show an overlay of the states explored, and the order in which they were explored (brighter red means earlier exploration). 
 
+---------------------
 
 CMPT310_DPLL:<br/>
 Objective:<br/>
@@ -36,6 +37,8 @@ Results:<br/>
     sudoku9.txt9.cnf<br/>
     
    Program should print “UNSAT” if a formula is unsatisfiable and "SAT" if it is satisfiable.<br/>
+   
+   ---------------------
     
 CMPT310_ECOLI:<br/>
 Objective:<br/>
@@ -50,6 +53,7 @@ Results:<br/>
   Shows:<br/>
   E. coli output named ecoli_output.txt.<br/>
 
+---------------------
 
 CMPT310_HMM<br/>
 Objective:<br/>
